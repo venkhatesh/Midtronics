@@ -2,7 +2,7 @@
 
 ## APK 
 
-I have uploaded the demo apk here [apk](https://drive.google.com/file/d/1y4Ho_9aS2fpIYUWSLpYAOuWMhIlPfn-f/view?usp=sharing)
+uploaded the demo apk here [apk](https://drive.google.com/file/d/1y4Ho_9aS2fpIYUWSLpYAOuWMhIlPfn-f/view?usp=sharing)
 
 ## Screenshots
 
